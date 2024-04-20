@@ -1,9 +1,10 @@
 # Mehmet Engin Turabık
 __Computer Engineering__
 
-[Resume](MehmetEnginTurabikResume%20(1).pdf) [<i class="far fa-envelope"></i> Email](mailto:engin.turabik43@gmail.com)
+[Resume](MehmetEnginTurabikResume%20(1).pdf) [Email](mailto:engin.turabik43@gmail.com)
 
-![Your Photo](engin.jpg){width=300px height=200px}
+![My Photo](engin.jpg =300x200)
+
 ## Education
 Atilim University
 
