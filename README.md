@@ -2,6 +2,9 @@
 __Computer Engineering__
 
 [Resume](MehmetEnginTurabikResume%20(1).pdf) [Email](mailto:engin.turabik43@gmail.com)
+[<i class="fab fa-github"></i> GitHub](https://github.com/enginnturabik)
+[<i class="fas fa-envelope"></i> Email](mailto:engin.turabik@example.com)
+
 
 <img src="engin.jpg" alt="My Photo" style="max-width:150px; height:auto;">
 ## Education
