@@ -1,9 +1,9 @@
-## Mehmet Engin Turabık
+# Mehmet Engin Turabık
 __Computer Engineering__
 
-[Resume](#resume) | [Email](mailto:engin.turabik43@gmail.com)
-![Your Profile Picture](your-profile-picture.jp)
-# Education
+[Resume](#MehmetEnginTurabikResume(1).pdf) | [Email](mailto:engin.turabik43@gmail.com)
+![Your Profile Picture](engin.jpg)
+## Education
 Atilim University
 
 *I am 3 grade computer engineering students at Atilim University.I am looking for a summer internship for this summer. I have strongly grown up mentality that, always learn from life and try to be better.*
