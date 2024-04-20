@@ -3,8 +3,7 @@ __Computer Engineering__
 
 [Resume](MehmetEnginTurabikResume%20(1).pdf) [Email](mailto:engin.turabik43@gmail.com)
 
-![My Photo](engin.jpg =300x200)
-
+<img src="engin.jpg" alt="My Photo" style="max-width:300px; height:auto;">
 ## Education
 Atilim University
 
