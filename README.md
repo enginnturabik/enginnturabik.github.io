@@ -2,7 +2,7 @@
 __Computer Engineering__
 
 [Resume](MehmetEnginTurabikResume%20(1).pdf) [Email](mailto:engin.turabik43@gmail.com)
-![Your Profile Picture](engin.jpg)
+![Your Profile Picture](engin.jpg){width=150px}
 ## Education
 Atilim University
 
