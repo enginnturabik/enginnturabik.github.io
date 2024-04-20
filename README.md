@@ -2,11 +2,9 @@
 __Computer Engineering__
 
 <br>
+[Resume](MehmetEnginTurabikResume%20(1).pdf)  |  [GitHub](https://github.com/enginnturabik)  |  [Email](mailto:engin.turabik43@gmail.com)
 
-
-<img src="engin.jpg" alt="My Photo" style="max-width:150px; height:auto;"> [Resume](MehmetEnginTurabikResume%20(1).pdf) 
-[GitHub](https://github.com/enginnturabik)  
-[Email](mailto:engin.turabik43@gmail.com)
+<img src="engin.jpg" alt="My Photo" style="max-width:150px; height:auto;">
 ## Education
 Atilim University
 
