@@ -10,7 +10,7 @@ Atilim University
 ### Summary:
 *I am a third-grade computer engineering student at Atilim University. I am currently seeking a second summer internship for this upcoming summer. I have a strong growth mentality, always learning from life experiences and striving to improve.*
 
-*I am eager to engage in a summer internship project aimed at enhancing my coding and algorithmic skills, refining my proficiency in database management, networking, and acquiring fundamental knowledge of software engineering technologies and frameworks utilized in the industry.*
+*I am eager to engage in a summer internship project aimed at enhancing my coding and algorithmic skills, refining my proficiency in database management, networking, and acquiring fundamental knowledge of software engineering technologies and frameworks utilized in the industry. Additionally, I am keen to be involved in a real web application projects (API).*
 
 ### Interests:
 - Cloud Engineering
