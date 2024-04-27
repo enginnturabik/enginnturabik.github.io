@@ -5,17 +5,18 @@ __Computer Engineering__
 [Resume](MehmetEnginTurabikResume%20(1).pdf)  |  [GitHub](https://github.com/enginnturabik)  |  [Email](mailto:engin.turabik43@gmail.com)
 
 <img src="photo.jpg" alt="My Photo" style="max-width:150px; height:auto;">
-## Education
+## Education:
 Atilim University
+### Summary:
+*I am a third-grade computer engineering student at Atilim University. I am currently seeking a second summer internship for this upcoming summer. I have a strong growth mentality, always learning from life experiences and striving to improve.*
 
-*I am 3 grade computer engineering student at Atilim University.I am looking for a summer internship for this summer. I have strongly grown up mentality that, always learn from life and try to be better.*
+*I am eager to engage in a summer internship project aimed at enhancing my coding and algorithmic skills, refining my proficiency in database management, networking, and acquiring fundamental knowledge of software engineering technologies and frameworks utilized in the industry.*
 
 ### Interests:
 - Cloud Engineering
 - Full Stack Web Development
 - Networking
 - Artificial Intelligence
-
 
 ### GitHub Projects:
 Check out my GitHub repositories:
