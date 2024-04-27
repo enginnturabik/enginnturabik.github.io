@@ -8,7 +8,7 @@ __Computer Engineering__
 ## Education
 Atilim University
 
-*I am 3 grade computer engineering students at Atilim University.I am looking for a summer internship for this summer. I have strongly grown up mentality that, always learn from life and try to be better.*
+*I am 3 grade computer engineering student at Atilim University.I am looking for a summer internship for this summer. I have strongly grown up mentality that, always learn from life and try to be better.*
 
 ### Interests:
 - Cloud Engineering
