@@ -13,10 +13,12 @@ Atilim University
 *I am eager to engage in a summer internship project aimed at enhancing my coding and algorithmic skills, refining my proficiency in database management, networking, and acquiring fundamental knowledge of software engineering technologies and frameworks utilized in the industry. Additionally, I am keen to be involved in a real web application projects (API).*
 
 ### Interests:
+- Artificial Intelligence
+- Machine Learning  
 - Cloud Engineering
 - Full Stack Web Development
 - Networking
-- Artificial Intelligence
+
 
 ### GitHub Projects:
 Check out my GitHub repositories:
