@@ -2,7 +2,7 @@
 __Computer Engineering__
 
 
-[Resume](Mehmet_Engin_Turabık_CV)  |  [GitHub](https://github.com/enginnturabik)  |  [Email](mailto:engin.turabik43@gmail.com)
+[Resume](Mehmet_Engin_Turabık_CV.pdf)  |  [GitHub](https://github.com/enginnturabik)  |  [Email](mailto:engin.turabik43@gmail.com)
 
 <img src="photo.jpg" alt="My Photo" style="max-width:150px; height:auto;">
 ## Education:
