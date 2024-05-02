@@ -15,7 +15,7 @@ Atilim University
 ### Interests:
 - Machine Learning  
 - Cloud Engineering
-- Full Stack Web Development
+- Backend Development
 - Networking
 
 
