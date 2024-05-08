@@ -21,9 +21,10 @@ Atilim University
 
 ### GitHub Projects:
 Check out my GitHub repositories:
-- [BlackJack Game](https://github.com/enginnturabik/BlackJack-game-JS)
-- [Tic Tac Toe Game](https://github.com/enginnturabik/tic-tac-toe-game)
+- [Snake Game Project](https://github.com/enginnturabik/Snake-Game)
+- [BlackJack Game Project](https://github.com/enginnturabik/BlackJack-game-JS)
+- [Tic Tac Toe Game Project](https://github.com/enginnturabik/tic-tac-toe-game)
 - [Inventory Management System](https://github.com/enginnturabik/my-database-project)
-- [Rock Paper Scissors Game](https://github.com/enginnturabik/rock_paper_scissors)
+- [Rock Paper Scissors Game Project](https://github.com/enginnturabik/rock_paper_scissors)
 - [Stopwatch Project](https://github.com/enginnturabik/stopwatch_project)
 
