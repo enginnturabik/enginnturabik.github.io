@@ -19,6 +19,7 @@ Atilim University
 - Networking
 - Mobile Application Development
 - Database Management
+- Game Development
 
 
 ### GitHub Projects:
