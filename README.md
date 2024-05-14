@@ -17,6 +17,8 @@ Atilim University
 - Cloud Engineering
 - Backend Development
 - Networking
+- Mobile Application Development
+- Database Management
 
 
 ### GitHub Projects:
