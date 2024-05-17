@@ -18,7 +18,6 @@ Atilim University
 - Backend Development
 - Networking
 - Mobile Application Development
-- Database Management
 - Game Development
 
 
