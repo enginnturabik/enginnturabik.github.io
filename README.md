@@ -18,8 +18,6 @@ Atilim University
 - Backend Development
 - Networking
 - Mobile Application Development
-- Game Development
-
 
 ### GitHub Projects:
 Check out my GitHub repositories:
